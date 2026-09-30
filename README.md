@@ -14,3 +14,4 @@ task5 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-p
 task5 code https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/2b3df29798bb8f579ef22f1be72cfedbcceb1ae0/Task-5/onCellEdit-Client-Script.js
 
 task6 activity1,2 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/fd0cccacb850deda141246fe8205c5feca7b6815/Task%206-Activity%201%2C2.jpeg)
+task6 activity3 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/83641a59f026569cbcf2ed7073a21709e02073e9/Task%206-Activity%203.jpeg)
