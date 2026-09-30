@@ -17,3 +17,4 @@ task6 activity1,2 ![image alt](https://github.com/RoshanAra-14/servicenow-client
 task6 activity3 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/83641a59f026569cbcf2ed7073a21709e02073e9/Task%206-Activity%203.jpeg)
 task6 activity4 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/86661923004b83b6c96dd8703a5047d789b1caac/Task%206-Activity%204(1).jpeg)
 task6 activity4 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/3623f3f5b56e22697bdbb798d2b7ec4920df3be1/Task%206-Activity%204(2)%20.jpeg)
+task6 activity5 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/62baa7fc0ccb8a1ecb1f30c441a1917172315650/Task%206-Activity%205.jpeg)
