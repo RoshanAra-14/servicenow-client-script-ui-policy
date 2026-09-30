@@ -15,3 +15,4 @@ task5 code https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/bl
 
 task6 activity1,2 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/fd0cccacb850deda141246fe8205c5feca7b6815/Task%206-Activity%201%2C2.jpeg)
 task6 activity3 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/83641a59f026569cbcf2ed7073a21709e02073e9/Task%206-Activity%203.jpeg)
+task6 activity4 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/86661923004b83b6c96dd8703a5047d789b1caac/Task%206-Activity%204(1).jpeg)
