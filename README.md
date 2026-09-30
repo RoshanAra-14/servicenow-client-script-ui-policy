@@ -12,3 +12,4 @@ task4 code https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/bl
 
 task5 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/d3de5afe1f9b869a0918c5f0554784e4542c4607/Task%205.jpeg)
 task5 code https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/2b3df29798bb8f579ef22f1be72cfedbcceb1ae0/Task-5/onCellEdit-Client-Script.js
+task6 activity1,2 ![image alt](https://github.com/RoshanAra-14/servicenow-client-script-ui-policy/blob/fd0cccacb850deda141246fe8205c5feca7b6815/Task%206-Activity%201%2C2.jpeg)
